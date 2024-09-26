@@ -1,5 +1,7 @@
 # GoDra - Go on Hydra
 
+![Example two-player game](./images/screenshot.webp)
+
 Based on:
 
 - <https://github.com/online-go/goban>
