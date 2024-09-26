@@ -1,0 +1,22 @@
+#root {
+  max-width: 1280px;
+  margin: 0 auto;
+  padding: 2rem;
+  text-align: center;
+}
+
+div.inputs {
+  display: flex;
+  flex-direction: column;
+  gap: 10px;
+}
+
+div.field {
+  display: flex;
+  gap: 10px;
+}
+
+div.field label {
+  width: 100px;
+  text-align: left;
+}
